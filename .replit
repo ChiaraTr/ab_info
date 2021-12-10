@@ -1,0 +1,2 @@
+language = "python3"
+run = "python3 src/lib/prova_types.py"
