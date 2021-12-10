@@ -34,3 +34,4 @@ print(my_string)
 
 rstring = r'Hello /t World!' #funziona!
 print(rstring)
+print(var1.upper())
