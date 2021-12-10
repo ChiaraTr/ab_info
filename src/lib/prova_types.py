@@ -32,4 +32,3 @@ print(cmath.sin(s))
 
 var1='Hello World!'
 print(var1[4:])
-
