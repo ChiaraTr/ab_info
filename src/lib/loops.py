@@ -9,7 +9,7 @@ while running:
   elif guess < n:
     print('Higher that that!')
   else:
-    print('Lower than that!')
+    print('Lower than that!')   
 
 for i in range(n):
   if i <= n/2:
