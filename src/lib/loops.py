@@ -10,8 +10,6 @@ while running:
     print('Higher that that!')
   else:
     print('Lower than that!')
-else:
-  print('While loop is over')
 
 for i in range(n):
   if i <= n/2:
